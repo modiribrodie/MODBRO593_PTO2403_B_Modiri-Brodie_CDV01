@@ -91,7 +91,9 @@
       Developing tools and frameworks for automated testing of software applications.
       
     - Areas that piqued my interest.
+      
       *Cybersecurity
+      
       Cybersecurity has become a critical concern for businesses, governments and individuals alike. This has led to a growing demand for cybersecurity professionals, which is why it is an attractive field to me. This field offers a wide range of roles, 
       from ethical hacking to digital forensics to security architecture. It allows beginners like me to explore differnt areas and find a role that best suits my interests and skillset. The landscape of cybersecurity is constantly evolving, along with new 
       threats and technologies popping up regularly. This simply means that one must continually learn and adapt , making it an intellectually stimulating and challenging field. It also plays a critical role in protecting people, organizations, and society 
@@ -100,11 +102,13 @@
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+      
       This field (cybersecurity) aligns well with my skills and values. Professionals must be able to identify vulnerabilites, analyze threats, and develop effective solutions. Cybersecurity requires careful attention to detail to identify potential 
       security risks and vulnerabilities. One must be able to communicate effectively with technical and non-technical clients to ensure that security measures are implemented correctly.I would have to uphold ethical standards and protect sensitive 
       information. The security needs of a client or organization are top priority. Also, I would have to take responsibility for the security of their systems and data.
       
     - Identify any gaps or areas for further exploration.
+      
       Building a professional network within the community can provid evaluable insights and opportunities. This could involve attending industry conferences, participating in online forums, or joining organizations. Many roles require require or prefer 
       industry certifications, such as Certified Information Systems Security Professional (CISSP) or Certified Ethical Hacker (CEH). 
 
@@ -204,6 +208,7 @@
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+      
       *Job Market Competition
       *Skill Gaps
       *Career Stagnation
@@ -231,6 +236,7 @@
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
+      
       *Company Training Programs
        Many companies offer training programs that can help develop new skills and advance my career.
       *Mentorship Programs
