@@ -10,6 +10,7 @@
 1. **Skills Analysis**:
     
     - My current skills and areas of expertise:
+      
       *Programming Fundamentals
       I understand the basics of coding with languages like HTML and CSS.
 
@@ -32,6 +33,7 @@
 2. **Interests and Values**:
     
     - My key interests related to my career.
+      
       *Web Devlopment
       Building websites and web-based applications using HTML, CSS, JavaScript and frameworks such as React and Angular.
 
@@ -42,6 +44,7 @@
       Developing and customizing operating systems for different hardware devices.
       
     - Values that are important to me in a work environment
+      
       *Work-life balance
       Supporting team members to excel in a healthy manner and recognizing that productivity is not soley tied to the hours worked.
 
@@ -62,6 +65,7 @@
 1. **Industries and Roles Explored**:
     
     - Industries or roles I have researched.
+      
       *Human-Computer Interaction
       Designing user interfaces and studying how humans interact with computers.
 
